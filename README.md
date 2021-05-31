@@ -1,4 +1,4 @@
-Challenge made for desktop and mobile views. Made using HTML and CSS only. Quite simple but fun to do. 
+Quite simple but fun to do. Made using HTML and CSS only.
 
 https://magdaszsz.github.io/Front-end-mentor-social-proof/
 
